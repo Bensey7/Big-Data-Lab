@@ -1,0 +1,3 @@
+Hadoop is Big Data
+Big Data is powerful
+Hadoop Hadoop MapReduce
